@@ -45,7 +45,7 @@
                     <package>https://bitbucket.org/nikos_sidiropoulos/source_packages/raw/master/RNAprobing-1.0.0/rtracklayer_1.26.1.tar.gz</package>
                     <package>https://bitbucket.org/nikos_sidiropoulos/source_packages/raw/master/RNAprobing-1.0.0/biomaRt_2.22.0.tar.gz</package>
                     <package>https://bitbucket.org/nikos_sidiropoulos/source_packages/raw/master/RNAprobing-1.0.0/GenomicFeatures_1.18.2.tar.gz</package>
-                    <package>https://bitbucket.org/nikos_sidiropoulos/source_packages/raw/master/RNAprobing-1.0.0/RNAprobR_0.99.1.tar.gz</package>
+                    <package>https://bitbucket.org/nikos_sidiropoulos/source_packages/raw/master/RNAprobing-1.0.0/RNAprobR_1.1.2.tar.gz</package>
                     <package>https://bitbucket.org/nikos_sidiropoulos/source_packages/raw/master/RNAprobing-1.0.0/getopt_1.20.0.tar.gz</package>
                 </action>
             </actions>
